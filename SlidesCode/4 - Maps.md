@@ -48,6 +48,9 @@ In order to create maps, we need the following:
 
 Depending on what your data looks like, geographic markers might be **place names** or **coordinates**
 
+- FIPS codes ([State](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696), [County](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697) for the US)
+- [NUTS codes](https://ec.europa.eu/eurostat/web/nuts/background) (Europe)
+
 ---
 
 # Data for our maps
@@ -61,11 +64,21 @@ What kind of data have you seen represented on a map?
 
 ---
 
+# Data for our maps
+
+![w:800](http://news.legislature.ne.gov/lrd/files/2018/01/01312018_mow_medianincomeLD-1024x663.png)
+
+---
+
 # Should we always use maps?
 
 Not necessarily! We use maps when **geography aids understanding**
 
 Remember that unnecessary information in a visual just makes it harder to find the critical point!
+
+
+![bg left h:600](https://www.cbpp.org/sites/default/files/atoms/files/5-12-15sfp-f1.png)
+
 
 ---
 
