@@ -38,14 +38,14 @@ Dusty White, PhD
 # What do I expect from you?
 - Ask Questions!
 - Experiment!
-- Be willing to feel awkward
+- Be willing to feel awkward (it's going to happen to all of us!)
 
 ---
 
 # What should you expect from me?
 - Prompt responses
 - I will focus on the topics you express interest in
-- I will be available through Slack as much as possible
+- I will be available through Slack as much as possible during the week to answer questions
 
 ---
 
