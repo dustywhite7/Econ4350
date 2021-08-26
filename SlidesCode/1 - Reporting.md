@@ -13,7 +13,7 @@ size: 4:3
 
 # Who Am I?
 
-Dusty White, PhD
+Dusty White, PhD (he/him/his)
 
 - From the Econ Department
 - I LOVE data, and using it to tell stories
@@ -45,7 +45,7 @@ Dusty White, PhD
 # What should you expect from me?
 - Prompt responses
 - I will focus on the topics you express interest in
-- I will be available through Slack as much as possible during the week to answer questions
+- I will be available on Aula as much as possible during the week to answer questions
 
 ---
 
@@ -73,12 +73,7 @@ Let's go take a look...
 
 ---
 
-# Reframe Reporting
-
-- Do you like stories?
-- What is your favorite story?
-
-![left bg](fingolfin.jpg)
+# So why do we even create reports?
 
 ---
 
@@ -88,6 +83,22 @@ Let's go take a look...
 - As we practice we will be able to sell our vision of the data to stakeholders
 
 ---
+
+# Reframe Reporting
+
+- Do you like stories?
+- What is your favorite story?
+
+![left bg](fingolfin.jpg)
+
+---
+
+# Take 5 minutes to think about favorite story, and then we will take a turn telling them
+
+You'll have ~3 minutes
+
+---
+
 
 # The Benefits of College Education - A Short Story
 
@@ -118,4 +129,4 @@ Let's go take a look...
 ---
 
 # Today, Dashboards
-#### Tomorrow, the World
+#### Tomorrow, the World (also, more dashboards)
