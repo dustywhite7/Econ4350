@@ -10,6 +10,10 @@ size: 4:3
 
 ---
 
+![](https://seanmills6.files.wordpress.com/2016/10/darth-vader-list-20.jpg)
+
+---
+
 # The Art of Visualizing Data
 - Storytelling is an art
 - Visualization is a form of storytelling
@@ -103,6 +107,15 @@ Catering a visual to our audience ensures that they can quickly obtain the most 
 
 ![w:850px](london.png)
 
+
+---
+
+# Informative
+
+An example I made: [Dash4Hank](http://dash4hank.herokuapp.com/)
+
+Why do firms struggle to hire CS talent in Omaha/Nebraska?
+
 ---
 
 # Efficient
@@ -127,9 +140,19 @@ Catering a visual to our audience ensures that they can quickly obtain the most 
 
 ---
 
+# A Bad Copycat
+
+![](https://target.scene7.com/is/image/Target/GUEST_a1b83e0c-920e-469b-a792-f00de0b16e89?wid=488&hei=488&fmt=pjpeg)
+
+---
+
 # So terrible...
 
-![bg left 90%](periodicBad.png)
+![width:800px](periodicBad.png)
+
+---
+
+# It's so bad!
 
 Maybe we do [this](https://github.com/d3/d3/wiki/Gallery) instead...
 
@@ -155,7 +178,7 @@ Or anything else!
 
 ---
 
-# Visual Options in Tableau
+# Visual Options in Power BI
 
 Let's walk through this process to address the following question:
 
@@ -164,15 +187,25 @@ Let's walk through this process to address the following question:
 
 ---
 
-# Visual Options in Tableau
+# Visual Options in Power BI
 
 We will explore the following charts:
 1. Bar Chart
 2. Histogram
-3. Packed Bubbles
 4. Line Charts (revisited)
 
 And the following techniques:
 - Grouping
 - Aggregating
 - Trend Lines
+
+(We are saving maps for their own lesson!)
+
+---
+
+# Lab Time!
+
+Choose a way to visualize [Omaha Weather Data](https://github.com/dustywhite7/Econ4350/raw/master/Data/civilLibertiesIndex.csv) in order to tell a story. The story you choose to tell is up to you! Please submit the following:
+
+1. Your Power BI workbook
+2. A word document with a brief explanation of what story you want to tell, as well as why you think the visual you created is the correct way to present that story
