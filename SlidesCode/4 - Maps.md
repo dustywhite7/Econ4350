@@ -32,7 +32,7 @@ Data is a stored representation of the real world. If anything, maps are some of
 
 # But why put it on a map?
 
-![w:900](london.png)
+![w:900](https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2018/08/18131303/walking-tube-map.jpg)
 
 ---
 
