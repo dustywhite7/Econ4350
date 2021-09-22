@@ -18,23 +18,20 @@ Sometimes the maps that are available aren't enough for what we want. Fortunatel
 
 # Some examples
 
-1) Want to create a map of regions not included in Tableau's default database
+1) Want to create a map of regions not included in Power BI's default database
 2) Want to create a map of events in a custom space (a sports venue, grocery store, etc.)
 
 ---
 
-# Mapping Nepal
+# Mapping Regions
 
-Tableau has 5 development regions within Nepal that are available to map:
-- Far West, Midwest, West, Central, and East
-
-What if we wanted more refined control over data in Nepal?
+Power BI allows us to map states within the US. Sometimes we want to map a different set of geographic entities, though.
 
 ---
 
 # Finding the Information
 
-In order to add detail to a map of Nepal, we need to find a way to access those details. Often, they will be stored in one of two ways:
+In order to add regions to a map of the US, we need to find a way to access those details. Often, they will be stored in one of two ways:
 
 - Shapefiles
 - GeoJSON objects/files
@@ -43,19 +40,47 @@ In order to add detail to a map of Nepal, we need to find a way to access those 
 
 # Finding the Information
 
-[Nepal Shapefiles Link](https://data.humdata.org/dataset/admin-shapefiles-of-nepal-mofald)
+[Mapstarter](http://mapstarter.com/) is where we can go to get some basic maps that we will be able to edit and reshape
+
+[mapshaper](https://mapshaper.org/) is where we can edit those files to make the map that we need
 
 ---
 
-# Putting it into Tableau
+# Regional Data
 
-Now that we have some crazy detailed geographic data, we need to incorporate it into Tableau. Let's move over to Tableau now and check it out!
+[US Census Regions](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
+
+[Some regional data](https://data.census.gov/cedsci/table?q=United%20States&tid=ACSDP1Y2017.DP05&vintage=2017&layer=state&cid=DP05_0001E). We just need to select the regions that we want to map (the 4 main census regions for now) and export the data
+
+---
+
+# Mapshaper
+
+1) Use the select tool to click on all of the states belonging to a specific region
+2) Use split to separate those states into a new layer
+3) Rename that layer
+4) `--dissolve` each layer in the console
+5) `merge-layers` in the console. Our command looks like this: `merge-layers target=West,South,Midwest,Northeast force`
+
+---
+
+# Mapshaper continued
+
+6) Add a region field to the map: `each region=region`
+7) Edit each region field to reflect the name of the region
+8) Export the resulting map to "TopoJSON" format for Power BI
+
+---
+
+# Putting it into Power BI
+
+Now that we have some more useful geographic data, we need to incorporate it into Power BI. Let's move over to Power BI now and check it out!
 
 ---
 
 # Summary
 
-If Tableau doesn't have the geographic data we want already, but we can find that data, we can use the imported geographic data to create the visuals that we need!
+If Power BI doesn't have the geographic data we want already, but we can find that data, we can use the imported geographic data to create the visuals that we need!
 
 ---
 
@@ -76,7 +101,7 @@ Let's map out the locations of various events in the Women's World Cup final fro
 
 In this case, we don't have geographic information, per se, but we do have the coordinates on the soccer pitch at which each event occurred.
 - We will use that information to create a map of the game!
-- Let's switch back to Tableau
+- Let's switch back to Power BI
 
 ---
 
