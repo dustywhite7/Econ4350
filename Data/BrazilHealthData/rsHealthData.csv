@@ -1,0 +1,497 @@
+,id,name,description,State,StateCode,CityCodeSmall,CityName,Population2020,EducationCouncilExists,NurseTechnicians,Nurses,CommunityHealthAgents,Physicians
+0,4300034,Aceguá,Aceguá,RS,43,34,Aceguá,"4,942",Sim,1.0,1.0,11.0,1.0
+1,4300059,Água Santa,Água Santa,RS,43,59,Água Santa,"3,743",Sim,1.0,1.0,10.0,1.0
+2,4300109,Agudo,Agudo,RS,43,109,Agudo,"16,401",Sim,2.0,2.0,6.0,2.0
+3,4300208,Ajuricaba,Ajuricaba,RS,43,208,Ajuricaba,"6,987",Sim,3.0,3.0,16.0,3.0
+4,4300307,Alecrim,Alecrim,RS,43,307,Alecrim,"5,827",Sim,3.0,3.0,17.0,3.0
+5,4300406,Alegrete,Alegrete,RS,43,406,Alegrete,"73,028",Sim,106.0,21.0,69.0,20.0
+6,4300455,Alegria,Alegria,RS,43,455,Alegria,"3,374",Sim,4.0,1.0,12.0,2.0
+7,4300471,Almirante Tamandaré do Sul,Almirante Tamandaré do Sul,RS,43,471,Almirante Tamandaré do Sul,"1,949",Sim,1.0,1.0,5.0,1.0
+8,4300505,Alpestre,Alpestre,RS,43,505,Alpestre,"6,067",Sim,6.0,7.0,23.0,4.0
+9,4300554,Alto Alegre,Alto Alegre,RS,43,554,Alto Alegre,"1,613",Sim,2.0,1.0,5.0,1.0
+10,4300570,Alto Feliz,Alto Feliz,RS,43,570,Alto Feliz,"3,036",Sim,2.0,1.0,8.0,1.0
+11,4300604,Alvorada,Alvorada,RS,43,604,Alvorada,"211,352",Sim,156.0,61.0,138.0,30.0
+12,4300638,Amaral Ferrador,Amaral Ferrador,RS,43,638,Amaral Ferrador,"7,085",Sim,0.0,0.0,0.0,0.0
+13,4300646,Ametista do Sul,Ametista do Sul,RS,43,646,Ametista do Sul,"7,403",Sim,,,,
+14,4300661,André da Rocha,André da Rocha,RS,43,661,André da Rocha,"1,343",Sim,1.0,1.0,3.0,1.0
+15,4300703,Anta Gorda,Anta Gorda,RS,43,703,Anta Gorda,"5,961",Sim,2.0,2.0,12.0,2.0
+16,4300802,Antônio Prado,Antônio Prado,RS,43,802,Antônio Prado,"13,045",Sim,10.0,5.0,17.0,5.0
+17,4300851,Arambaré,Arambaré,RS,43,851,Arambaré,"3,562",Sim,4.0,2.0,5.0,2.0
+18,4300877,Araricá,Araricá,RS,43,877,Araricá,"5,771",Sim,3.0,3.0,12.0,2.0
+19,4300901,Aratiba,Aratiba,RS,43,901,Aratiba,"6,189",Sim,2.0,2.0,13.0,2.0
+20,4301008,Arroio do Meio,Arroio do Meio,RS,43,1008,Arroio do Meio,"20,967",Sim,5.0,5.0,22.0,4.0
+21,4301057,Arroio do Sal,Arroio do Sal,RS,43,1057,Arroio do Sal,"10,279",Sim,8.0,4.0,19.0,6.0
+22,4301073,Arroio do Padre,Arroio do Padre,RS,43,1073,Arroio do Padre,"2,951",Sim,0.0,1.0,6.0,1.0
+23,4301107,Arroio dos Ratos,Arroio dos Ratos,RS,43,1107,Arroio dos Ratos,"14,177",Sim,8.0,4.0,22.0,4.0
+24,4301206,Arroio do Tigre,Arroio do Tigre,RS,43,1206,Arroio do Tigre,"13,413",Sim,9.0,3.0,29.0,3.0
+25,4301305,Arroio Grande,Arroio Grande,RS,43,1305,Arroio Grande,"18,238",Sim,3.0,3.0,15.0,3.0
+26,4301404,Arvorezinha,Arvorezinha,RS,43,1404,Arvorezinha,"10,423",Sim,4.0,3.0,27.0,3.0
+27,4301503,Augusto Pestana,Augusto Pestana,RS,43,1503,Augusto Pestana,"6,602",Sim,2.0,2.0,14.0,2.0
+28,4301552,Áurea,Áurea,RS,43,1552,Áurea,"3,535",Sim,4.0,2.0,9.0,2.0
+29,4301602,Bagé,Bagé,RS,43,1602,Bagé,"121,335",Sim,25.0,25.0,131.0,25.0
+30,4301636,Balneário Pinhal,Balneário Pinhal,RS,43,1636,Balneário Pinhal,"14,363",Sim,7.0,3.0,22.0,4.0
+31,4301651,Barão,Barão,RS,43,1651,Barão,"6,202",Sim,3.0,3.0,13.0,4.0
+32,4301701,Barão de Cotegipe,Barão de Cotegipe,RS,43,1701,Barão de Cotegipe,"6,620",Sim,3.0,3.0,12.0,3.0
+33,4301750,Barão do Triunfo,Barão do Triunfo,RS,43,1750,Barão do Triunfo,"7,519",Sim,1.0,1.0,4.0,1.0
+34,4301800,Barracão,Barracão,RS,43,1800,Barracão,"5,256",Sim,4.0,2.0,12.0,0.0
+35,4301859,Barra do Guarita,Barra do Guarita,RS,43,1859,Barra do Guarita,"3,257",Sim,5.0,2.0,8.0,2.0
+36,4301875,Barra do Quaraí,Barra do Quaraí,RS,43,1875,Barra do Quaraí,"4,227",Sim,2.0,1.0,18.0,2.0
+37,4301909,Barra do Ribeiro,Barra do Ribeiro,RS,43,1909,Barra do Ribeiro,"13,556",Sim,7.0,3.0,12.0,3.0
+38,4301925,Barra do Rio Azul,Barra do Rio Azul,RS,43,1925,Barra do Rio Azul,"1,655",Sim,2.0,1.0,6.0,1.0
+39,4301958,Barra Funda,Barra Funda,RS,43,1958,Barra Funda,"2,551",Sim,1.0,2.0,6.0,1.0
+40,4302006,Barros Cassal,Barros Cassal,RS,43,2006,Barros Cassal,"11,182",Sim,0.0,3.0,28.0,3.0
+41,4302055,Benjamin Constant do Sul,Benjamin Constant do Sul,RS,43,2055,Benjamin Constant do Sul,"1,958",Sim,1.0,1.0,5.0,1.0
+42,4302105,Bento Gonçalves,Bento Gonçalves,RS,43,2105,Bento Gonçalves,"121,803",Sim,27.0,14.0,74.0,14.0
+43,4302154,Boa Vista das Missões,Boa Vista das Missões,RS,43,2154,Boa Vista das Missões,"2,092",Sim,1.0,1.0,5.0,1.0
+44,4302204,Boa Vista do Buricá,Boa Vista do Buricá,RS,43,2204,Boa Vista do Buricá,"6,712",Sim,4.0,3.0,16.0,4.0
+45,4302220,Boa Vista do Cadeado,Boa Vista do Cadeado,RS,43,2220,Boa Vista do Cadeado,"2,468",Sim,1.0,1.0,7.0,1.0
+46,4302238,Boa Vista do Incra,Boa Vista do Incra,RS,43,2238,Boa Vista do Incra,"2,616",Sim,1.0,1.0,6.0,1.0
+47,4302253,Boa Vista do Sul,Boa Vista do Sul,RS,43,2253,Boa Vista do Sul,"2,778",Sim,,,,
+48,4302303,Bom Jesus,Bom Jesus,RS,43,2303,Bom Jesus,"11,309",Sim,7.0,6.0,12.0,9.0
+49,4302352,Bom Princípio,Bom Princípio,RS,43,2352,Bom Princípio,"14,255",Sim,8.0,4.0,24.0,4.0
+50,4302378,Bom Progresso,Bom Progresso,RS,43,2378,Bom Progresso,"1,899",Sim,4.0,1.0,7.0,0.0
+51,4302402,Bom Retiro do Sul,Bom Retiro do Sul,RS,43,2402,Bom Retiro do Sul,"12,390",Sim,2.0,2.0,10.0,2.0
+52,4302451,Boqueirão do Leão,Boqueirão do Leão,RS,43,2451,Boqueirão do Leão,"7,702",Sim,2.0,2.0,18.0,2.0
+53,4302501,Bossoroca,Bossoroca,RS,43,2501,Bossoroca,"6,205",Sim,7.0,3.0,18.0,3.0
+54,4302584,Bozano,Bozano,RS,43,2584,Bozano,"2,111",Sim,3.0,2.0,6.0,4.0
+55,4302600,Braga,Braga,RS,43,2600,Braga,"3,311",Sim,5.0,2.0,8.0,2.0
+56,4302659,Brochier,Brochier,RS,43,2659,Brochier,"5,104",Sim,2.0,1.0,8.0,1.0
+57,4302709,Butiá,Butiá,RS,43,2709,Butiá,"20,952",Sim,0.0,6.0,34.0,6.0
+58,4302808,Caçapava do Sul,Caçapava do Sul,RS,43,2808,Caçapava do Sul,"33,548",Sim,13.0,5.0,48.0,5.0
+59,4302907,Cacequi,Cacequi,RS,43,2907,Cacequi,"12,423",Sim,10.0,6.0,28.0,5.0
+60,4303004,Cachoeira do Sul,Cachoeira do Sul,RS,43,3004,Cachoeira do Sul,"81,869",Sim,10.0,11.0,76.0,8.0
+61,4303103,Cachoeirinha,Cachoeirinha,RS,43,3103,Cachoeirinha,"131,240",Sim,30.0,15.0,63.0,15.0
+62,4303202,Cacique Doble,Cacique Doble,RS,43,3202,Cacique Doble,"5,074",Sim,1.0,1.0,12.0,1.0
+63,4303301,Caibaté,Caibaté,RS,43,3301,Caibaté,"4,823",Sim,6.0,2.0,13.0,2.0
+64,4303400,Caiçara,Caiçara,RS,43,3400,Caiçara,"4,700",Sim,4.0,4.0,13.0,2.0
+65,4303509,Camaquã,Camaquã,RS,43,3509,Camaquã,"66,478",Sim,7.0,7.0,28.0,7.0
+66,4303558,Camargo,Camargo,RS,43,3558,Camargo,"2,742",Sim,1.0,1.0,6.0,1.0
+67,4303608,Cambará do Sul,Cambará do Sul,RS,43,3608,Cambará do Sul,"6,406",Sim,6.0,44.0,16.0,3.0
+68,4303673,Campestre da Serra,Campestre da Serra,RS,43,3673,Campestre da Serra,"3,395",Sim,1.0,1.0,8.0,1.0
+69,4303707,Campina das Missões,Campina das Missões,RS,43,3707,Campina das Missões,"5,398",Sim,2.0,2.0,10.0,2.0
+70,4303806,Campinas do Sul,Campinas do Sul,RS,43,3806,Campinas do Sul,"5,438",Sim,2.0,2.0,13.0,3.0
+71,4303905,Campo Bom,Campo Bom,RS,43,3905,Campo Bom,"69,458",Sim,30.0,15.0,84.0,15.0
+72,4304002,Campo Novo,Campo Novo,RS,43,4002,Campo Novo,"4,376",Sim,3.0,2.0,14.0,3.0
+73,4304101,Campos Borges,Campos Borges,RS,43,4101,Campos Borges,"3,295",Sim,2.0,2.0,10.0,2.0
+74,4304200,Candelária,Candelária,RS,43,4200,Candelária,"31,421",Sim,3.0,3.0,11.0,3.0
+75,4304309,Cândido Godói,Cândido Godói,RS,43,4309,Cândido Godói,"6,151",Sim,3.0,2.0,17.0,1.0
+76,4304358,Candiota,Candiota,RS,43,4358,Candiota,"9,647",Sim,10.0,4.0,19.0,5.0
+77,4304408,Canela,Canela,RS,43,4408,Canela,"45,488",Sim,14.0,6.0,26.0,6.0
+78,4304507,Canguçu,Canguçu,RS,43,4507,Canguçu,"56,211",Sim,7.0,5.0,29.0,5.0
+79,4304606,Canoas,Canoas,RS,43,4606,Canoas,"348,208",Sim,130.0,84.0,323.0,54.0
+80,4304614,Canudos do Vale,Canudos do Vale,RS,43,4614,Canudos do Vale,"1,705",Sim,1.0,1.0,4.0,1.0
+81,4304622,Capão Bonito do Sul,Capão Bonito do Sul,RS,43,4622,Capão Bonito do Sul,"1,641",Sim,2.0,3.0,4.0,5.0
+82,4304630,Capão da Canoa,Capão da Canoa,RS,43,4630,Capão da Canoa,"54,051",Sim,9.0,10.0,19.0,9.0
+83,4304655,Capão do Cipó,Capão do Cipó,RS,43,4655,Capão do Cipó,"3,699",Sim,3.0,2.0,9.0,2.0
+84,4304663,Capão do Leão,Capão do Leão,RS,43,4663,Capão do Leão,"25,409",Sim,1.0,1.0,2.0,1.0
+85,4304671,Capivari do Sul,Capivari do Sul,RS,43,4671,Capivari do Sul,"4,728",Sim,4.0,1.0,9.0,1.0
+86,4304689,Capela de Santana,Capela de Santana,RS,43,4689,Capela de Santana,"12,064",Sim,4.0,3.0,17.0,3.0
+87,4304697,Capitão,Capitão,RS,43,4697,Capitão,"2,763",Sim,1.0,0.0,7.0,1.0
+88,4304705,Carazinho,Carazinho,RS,43,4705,Carazinho,"62,265",Sim,20.0,14.0,30.0,12.0
+89,4304713,Caraá,Caraá,RS,43,4713,Caraá,"8,350",Sim,8.0,3.0,16.0,3.0
+90,4304804,Carlos Barbosa,Carlos Barbosa,RS,43,4804,Carlos Barbosa,"30,241",Sim,2.0,2.0,12.0,2.0
+91,4304853,Carlos Gomes,Carlos Gomes,RS,43,4853,Carlos Gomes,"1,351",Sim,4.0,2.0,6.0,1.0
+92,4304903,Casca,Casca,RS,43,4903,Casca,"9,051",Sim,2.0,2.0,21.0,2.0
+93,4304952,Caseiros,Caseiros,RS,43,4952,Caseiros,"3,216",Sim,,,,
+94,4305009,Catuípe,Catuípe,RS,43,5009,Catuípe,"8,701",Sim,4.0,4.0,25.0,4.0
+95,4305108,Caxias do Sul,Caxias do Sul,RS,43,5108,Caxias do Sul,"517,451",Sim,99.0,46.0,183.0,46.0
+96,4305116,Centenário,Centenário,RS,43,5116,Centenário,"2,877",Sim,2.0,1.0,7.0,0.0
+97,4305124,Cerrito,Cerrito,RS,43,5124,Cerrito,"6,047",Sim,2.0,2.0,8.0,2.0
+98,4305132,Cerro Branco,Cerro Branco,RS,43,5132,Cerro Branco,"4,706",Sim,6.0,2.0,12.0,2.0
+99,4305157,Cerro Grande,Cerro Grande,RS,43,5157,Cerro Grande,"2,296",Sim,6.0,2.0,7.0,2.0
+100,4305173,Cerro Grande do Sul,Cerro Grande do Sul,RS,43,5173,Cerro Grande do Sul,"12,413",Sim,3.0,3.0,22.0,3.0
+101,4305207,Cerro Largo,Cerro Largo,RS,43,5207,Cerro Largo,"14,189",Sim,9.0,4.0,34.0,4.0
+102,4305306,Chapada,Chapada,RS,43,5306,Chapada,"9,239",Sim,14.0,6.0,24.0,4.0
+103,4305355,Charqueadas,Charqueadas,RS,43,5355,Charqueadas,"41,258",Sim,31.0,12.0,55.0,12.0
+104,4305371,Charrua,Charrua,RS,43,5371,Charrua,"3,252",Sim,2.0,1.0,6.0,1.0
+105,4305405,Chiapetta,Chiapetta,RS,43,5405,Chiapetta,"3,719",Sim,2.0,2.0,10.0,2.0
+106,4305439,Chuí,Chuí,RS,43,5439,Chuí,"6,770",Sim,1.0,1.0,5.0,1.0
+107,4305447,Chuvisca,Chuvisca,RS,43,5447,Chuvisca,"5,480",Sim,,,,
+108,4305454,Cidreira,Cidreira,RS,43,5454,Cidreira,"16,583",Sim,6.0,4.0,36.0,4.0
+109,4305504,Ciríaco,Ciríaco,RS,43,5504,Ciríaco,"4,719",Sim,2.0,2.0,13.0,2.0
+110,4305587,Colinas,Colinas,RS,43,5587,Colinas,"2,469",Sim,3.0,1.0,5.0,2.0
+111,4305603,Colorado,Colorado,RS,43,5603,Colorado,"3,130",Sim,2.0,3.0,11.0,2.0
+112,4305702,Condor,Condor,RS,43,5702,Condor,"6,759",Sim,6.0,4.0,13.0,5.0
+113,4305801,Constantina,Constantina,RS,43,5801,Constantina,"9,907",Sim,3.0,3.0,10.0,3.0
+114,4305835,Coqueiro Baixo,Coqueiro Baixo,RS,43,5835,Coqueiro Baixo,"1,495",Sim,1.0,1.0,4.0,0.0
+115,4305850,Coqueiros do Sul,Coqueiros do Sul,RS,43,5850,Coqueiros do Sul,"2,286",Sim,2.0,1.0,6.0,1.0
+116,4305871,Coronel Barros,Coronel Barros,RS,43,5871,Coronel Barros,"2,520",Sim,2.0,2.0,6.0,4.0
+117,4305900,Coronel Bicaco,Coronel Bicaco,RS,43,5900,Coronel Bicaco,"7,268",Sim,3.0,3.0,16.0,3.0
+118,4305934,Coronel Pilar,Coronel Pilar,RS,43,5934,Coronel Pilar,"1,614",Sim,,,,
+119,4305959,Cotiporã,Cotiporã,RS,43,5959,Cotiporã,"3,838",Sim,2.0,9.0,10.0,4.0
+120,4305975,Coxilha,Coxilha,RS,43,5975,Coxilha,"2,743",Sim,2.0,1.0,7.0,1.0
+121,4306007,Crissiumal,Crissiumal,RS,43,6007,Crissiumal,"13,357",Sim,7.0,7.0,36.0,0.0
+122,4306056,Cristal,Cristal,RS,43,6056,Cristal,"8,067",Sim,7.0,4.0,13.0,4.0
+123,4306072,Cristal do Sul,Cristal do Sul,RS,43,6072,Cristal do Sul,"2,844",Sim,1.0,1.0,7.0,1.0
+124,4306106,Cruz Alta,Cruz Alta,RS,43,6106,Cruz Alta,"59,922",Sim,75.0,48.0,125.0,20.0
+125,4306130,Cruzaltense,Cruzaltense,RS,43,6130,Cruzaltense,"1,799",Sim,1.0,1.0,8.0,1.0
+126,4306205,Cruzeiro do Sul,Cruzeiro do Sul,RS,43,6205,Cruzeiro do Sul,"12,402",Sim,2.0,3.0,18.0,2.0
+127,4306304,David Canabarro,David Canabarro,RS,43,6304,David Canabarro,"4,736",Sim,2.0,2.0,9.0,2.0
+128,4306320,Derrubadas,Derrubadas,RS,43,6320,Derrubadas,"2,761",Sim,1.0,1.0,9.0,1.0
+129,4306353,Dezesseis de Novembro,Dezesseis de Novembro,RS,43,6353,Dezesseis de Novembro,"2,378",Sim,6.0,1.0,7.0,5.0
+130,4306379,Dilermando de Aguiar,Dilermando de Aguiar,RS,43,6379,Dilermando de Aguiar,"3,002",Sim,1.0,1.0,8.0,1.0
+131,4306403,Dois Irmãos,Dois Irmãos,RS,43,6403,Dois Irmãos,"33,119",Sim,16.0,8.0,34.0,8.0
+132,4306429,Dois Irmãos das Missões,Dois Irmãos das Missões,RS,43,6429,Dois Irmãos das Missões,"2,008",Sim,1.0,2.0,6.0,2.0
+133,4306452,Dois Lajeados,Dois Lajeados,RS,43,6452,Dois Lajeados,"3,405",Sim,1.0,1.0,7.0,1.0
+134,4306502,Dom Feliciano,Dom Feliciano,RS,43,6502,Dom Feliciano,"15,487",Sim,3.0,3.0,25.0,3.0
+135,4306551,Dom Pedro de Alcântara,Dom Pedro de Alcântara,RS,43,6551,Dom Pedro de Alcântara,"2,527",Sim,4.0,1.0,9.0,3.0
+136,4306601,Dom Pedrito,Dom Pedrito,RS,43,6601,Dom Pedrito,"38,339",Sim,7.0,7.0,31.0,7.0
+137,4306700,Dona Francisca,Dona Francisca,RS,43,6700,Dona Francisca,"2,999",Sim,2.0,2.0,8.0,2.0
+138,4306734,Doutor Maurício Cardoso,Doutor Maurício Cardoso,RS,43,6734,Doutor Maurício Cardoso,"4,462",Sim,5.0,3.0,14.0,2.0
+139,4306759,Doutor Ricardo,Doutor Ricardo,RS,43,6759,Doutor Ricardo,"1,975",Sim,3.0,2.0,5.0,2.0
+140,4306767,Eldorado do Sul,Eldorado do Sul,RS,43,6767,Eldorado do Sul,"41,902",Sim,3.0,3.0,13.0,5.0
+141,4306809,Encantado,Encantado,RS,43,6809,Encantado,"22,880",Sim,11.0,8.0,40.0,11.0
+142,4306908,Encruzilhada do Sul,Encruzilhada do Sul,RS,43,6908,Encruzilhada do Sul,"25,960",Sim,10.0,5.0,52.0,5.0
+143,4306924,Engenho Velho,Engenho Velho,RS,43,6924,Engenho Velho,982,Sim,4.0,2.0,7.0,2.0
+144,4306932,Entre-Ijuís,Entre-Ijuís,RS,43,6932,Entre-Ijuís,"8,411",Sim,3.0,3.0,23.0,3.0
+145,4306957,Entre Rios do Sul,Entre Rios do Sul,RS,43,6957,Entre Rios do Sul,"2,758",Sim,1.0,1.0,8.0,1.0
+146,4306973,Erebango,Erebango,RS,43,6973,Erebango,"2,982",Sim,1.0,1.0,5.0,2.0
+147,4307005,Erechim,Erechim,RS,43,7005,Erechim,"106,633",Sim,18.0,18.0,94.0,18.0
+148,4307054,Ernestina,Ernestina,RS,43,7054,Ernestina,"3,170",Sim,2.0,1.0,8.0,1.0
+149,4307104,Herval,Herval,RS,43,7104,Herval,"6,814",Sim,3.0,3.0,18.0,3.0
+150,4307203,Erval Grande,Erval Grande,RS,43,7203,Erval Grande,"4,819",Sim,0.0,5.0,13.0,4.0
+151,4307302,Erval Seco,Erval Seco,RS,43,7302,Erval Seco,"6,802",Sim,3.0,3.0,20.0,3.0
+152,4307401,Esmeralda,Esmeralda,RS,43,7401,Esmeralda,"3,287",Sim,2.0,1.0,7.0,1.0
+153,4307450,Esperança do Sul,Esperança do Sul,RS,43,7450,Esperança do Sul,"2,885",Sim,4.0,2.0,10.0,3.0
+154,4307500,Espumoso,Espumoso,RS,43,7500,Espumoso,"15,591",Sim,17.0,4.0,20.0,9.0
+155,4307559,Estação,Estação,RS,43,7559,Estação,"5,940",Sim,6.0,3.0,11.0,2.0
+156,4307609,Estância Velha,Estância Velha,RS,43,7609,Estância Velha,"50,672",Sim,32.0,9.0,32.0,7.0
+157,4307708,Esteio,Esteio,RS,43,7708,Esteio,"83,279",Sim,13.0,13.0,70.0,23.0
+158,4307807,Estrela,Estrela,RS,43,7807,Estrela,"34,399",Sim,6.0,3.0,15.0,3.0
+159,4307815,Estrela Velha,Estrela Velha,RS,43,7815,Estrela Velha,"3,650",Sim,2.0,3.0,9.0,2.0
+160,4307831,Eugênio de Castro,Eugênio de Castro,RS,43,7831,Eugênio de Castro,"2,352",Sim,1.0,1.0,9.0,1.0
+161,4307864,Fagundes Varela,Fagundes Varela,RS,43,7864,Fagundes Varela,"2,741",Sim,3.0,2.0,6.0,1.0
+162,4307906,Farroupilha,Farroupilha,RS,43,7906,Farroupilha,"73,061",Sim,16.0,10.0,28.0,9.0
+163,4308003,Faxinal do Soturno,Faxinal do Soturno,RS,43,8003,Faxinal do Soturno,"6,663",Sim,2.0,3.0,15.0,2.0
+164,4308052,Faxinalzinho,Faxinalzinho,RS,43,8052,Faxinalzinho,"2,284",Sim,1.0,1.0,6.0,1.0
+165,4308078,Fazenda Vilanova,Fazenda Vilanova,RS,43,8078,Fazenda Vilanova,"4,608",Sim,2.0,2.0,10.0,2.0
+166,4308102,Feliz,Feliz,RS,43,8102,Feliz,"13,640",Sim,8.0,4.0,27.0,4.0
+167,4308201,Flores da Cunha,Flores da Cunha,RS,43,8201,Flores da Cunha,"31,063",Sim,9.0,5.0,17.0,5.0
+168,4308250,Floriano Peixoto,Floriano Peixoto,RS,43,8250,Floriano Peixoto,"1,737",Sim,4.0,2.0,5.0,1.0
+169,4308300,Fontoura Xavier,Fontoura Xavier,RS,43,8300,Fontoura Xavier,"10,241",Sim,4.0,4.0,21.0,4.0
+170,4308409,Formigueiro,Formigueiro,RS,43,8409,Formigueiro,"6,616",Sim,2.0,2.0,16.0,2.0
+171,4308433,Forquetinha,Forquetinha,RS,43,8433,Forquetinha,"2,400",Sim,,,,
+172,4308458,Fortaleza dos Valos,Fortaleza dos Valos,RS,43,8458,Fortaleza dos Valos,"4,285",Sim,2.0,2.0,9.0,2.0
+173,4308508,Frederico Westphalen,Frederico Westphalen,RS,43,8508,Frederico Westphalen,"31,498",Sim,5.0,7.0,25.0,10.0
+174,4308607,Garibaldi,Garibaldi,RS,43,8607,Garibaldi,"35,440",Sim,12.0,4.0,13.0,4.0
+175,4308656,Garruchos,Garruchos,RS,43,8656,Garruchos,"2,886",Sim,0.0,2.0,8.0,2.0
+176,4308706,Gaurama,Gaurama,RS,43,8706,Gaurama,"5,489",Sim,2.0,2.0,16.0,2.0
+177,4308805,General Câmara,General Câmara,RS,43,8805,General Câmara,"8,361",Sim,6.0,3.0,17.0,3.0
+178,4308854,Gentil,Gentil,RS,43,8854,Gentil,"1,626",Sim,1.0,1.0,5.0,1.0
+179,4308904,Getúlio Vargas,Getúlio Vargas,RS,43,8904,Getúlio Vargas,"16,184",Sim,4.0,5.0,4.0,7.0
+180,4309001,Giruá,Giruá,RS,43,9001,Giruá,"15,863",Sim,12.0,5.0,34.0,5.0
+181,4309050,Glorinha,Glorinha,RS,43,9050,Glorinha,"8,204",Sim,4.0,2.0,10.0,3.0
+182,4309100,Gramado,Gramado,RS,43,9100,Gramado,"36,555",Sim,1.0,1.0,3.0,1.0
+183,4309126,Gramado dos Loureiros,Gramado dos Loureiros,RS,43,9126,Gramado dos Loureiros,"2,058",Sim,0.0,3.0,6.0,0.0
+184,4309159,Gramado Xavier,Gramado Xavier,RS,43,9159,Gramado Xavier,"4,352",Sim,2.0,4.0,10.0,1.0
+185,4309209,Gravataí,Gravataí,RS,43,9209,Gravataí,"283,620",Sim,83.0,46.0,159.0,42.0
+186,4309258,Guabiju,Guabiju,RS,43,9258,Guabiju,"1,490",Sim,1.0,1.0,4.0,1.0
+187,4309308,Guaíba,Guaíba,RS,43,9308,Guaíba,"98,239",Sim,12.0,6.0,0.0,0.0
+188,4309407,Guaporé,Guaporé,RS,43,9407,Guaporé,"25,968",Sim,16.0,7.0,43.0,7.0
+189,4309506,Guarani das Missões,Guarani das Missões,RS,43,9506,Guarani das Missões,"7,463",Sim,9.0,3.0,20.0,3.0
+190,4309555,Harmonia,Harmonia,RS,43,9555,Harmonia,"4,917",Sim,2.0,2.0,9.0,2.0
+191,4309571,Herveiras,Herveiras,RS,43,9571,Herveiras,"3,019",Sim,3.0,2.0,6.0,1.0
+192,4309605,Horizontina,Horizontina,RS,43,9605,Horizontina,"19,389",Sim,12.0,8.0,40.0,7.0
+193,4309654,Hulha Negra,Hulha Negra,RS,43,9654,Hulha Negra,"6,836",Sim,2.0,2.0,10.0,2.0
+194,4309704,Humaitá,Humaitá,RS,43,9704,Humaitá,"4,736",Sim,2.0,2.0,11.0,2.0
+195,4309753,Ibarama,Ibarama,RS,43,9753,Ibarama,"4,399",Sim,5.0,2.0,10.0,3.0
+196,4309803,Ibiaçá,Ibiaçá,RS,43,9803,Ibiaçá,"4,699",Sim,1.0,1.0,8.0,1.0
+197,4309902,Ibiraiaras,Ibiraiaras,RS,43,9902,Ibiraiaras,"7,265",Sim,7.0,2.0,16.0,3.0
+198,4309951,Ibirapuitã,Ibirapuitã,RS,43,9951,Ibirapuitã,"4,000",Sim,3.0,2.0,11.0,2.0
+199,4310009,Ibirubá,Ibirubá,RS,43,10009,Ibirubá,"20,413",Sim,14.0,7.0,39.0,6.0
+200,4310108,Igrejinha,Igrejinha,RS,43,10108,Igrejinha,"37,340",Sim,13.0,8.0,47.0,8.0
+201,4310207,Ijuí,Ijuí,RS,43,10207,Ijuí,"83,764",Sim,30.0,17.0,119.0,54.0
+202,4310306,Ilópolis,Ilópolis,RS,43,10306,Ilópolis,"4,066",Sim,2.0,3.0,10.0,2.0
+203,4310330,Imbé,Imbé,RS,43,10330,Imbé,"23,271",Sim,2.0,1.0,5.0,1.0
+204,4310363,Imigrante,Imigrante,RS,43,10363,Imigrante,"3,100",Sim,3.0,2.0,7.0,1.0
+205,4310405,Independência,Independência,RS,43,10405,Independência,"6,109",Sim,10.0,2.0,16.0,2.0
+206,4310413,Inhacorá,Inhacorá,RS,43,10413,Inhacorá,"2,215",Sim,1.0,1.0,7.0,1.0
+207,4310439,Ipê,Ipê,RS,43,10439,Ipê,"6,689",Sim,3.0,3.0,16.0,3.0
+208,4310462,Ipiranga do Sul,Ipiranga do Sul,RS,43,10462,Ipiranga do Sul,"1,880",Sim,2.0,1.0,5.0,1.0
+209,4310504,Iraí,Iraí,RS,43,10504,Iraí,"7,141",Sim,5.0,3.0,17.0,4.0
+210,4310538,Itaara,Itaara,RS,43,10538,Itaara,"5,537",Sim,,,,
+211,4310553,Itacurubi,Itacurubi,RS,43,10553,Itacurubi,"3,460",Sim,2.0,2.0,8.0,1.0
+212,4310579,Itapuca,Itapuca,RS,43,10579,Itapuca,"2,065",Sim,3.0,1.0,8.0,2.0
+213,4310603,Itaqui,Itaqui,RS,43,10603,Itaqui,"37,489",Sim,4.0,5.0,26.0,5.0
+214,4310652,Itati,Itati,RS,43,10652,Itati,"2,397",Sim,2.0,2.0,8.0,2.0
+215,4310702,Itatiba do Sul,Itatiba do Sul,RS,43,10702,Itatiba do Sul,"3,231",Sim,2.0,2.0,10.0,2.0
+216,4310751,Ivorá,Ivorá,RS,43,10751,Ivorá,"1,881",Sim,1.0,1.0,5.0,1.0
+217,4310801,Ivoti,Ivoti,RS,43,10801,Ivoti,"24,690",Sim,,,,
+218,4310850,Jaboticaba,Jaboticaba,RS,43,10850,Jaboticaba,"3,773",Sim,6.0,4.0,10.0,3.0
+219,4310876,Jacuizinho,Jacuizinho,RS,43,10876,Jacuizinho,"2,706",Sim,,,,
+220,4310900,Jacutinga,Jacutinga,RS,43,10900,Jacutinga,"3,546",Sim,4.0,2.0,8.0,2.0
+221,4311007,Jaguarão,Jaguarão,RS,43,11007,Jaguarão,"26,500",Sim,6.0,66.0,34.0,6.0
+222,4311106,Jaguari,Jaguari,RS,43,11106,Jaguari,"10,765",Sim,2.0,2.0,13.0,4.0
+223,4311122,Jaquirana,Jaquirana,RS,43,11122,Jaquirana,"3,662",Sim,3.0,2.0,11.0,2.0
+224,4311130,Jari,Jari,RS,43,11130,Jari,"3,486",Sim,2.0,1.0,5.0,1.0
+225,4311155,Jóia,Jóia,RS,43,11155,Jóia,"8,566",Sim,4.0,4.0,22.0,4.0
+226,4311205,Júlio de Castilhos,Júlio de Castilhos,RS,43,11205,Júlio de Castilhos,"19,224",Sim,10.0,5.0,31.0,5.0
+227,4311239,Lagoa Bonita do Sul,Lagoa Bonita do Sul,RS,43,11239,Lagoa Bonita do Sul,"2,921",Sim,4.0,1.0,6.0,4.0
+228,4311254,Lagoão,Lagoão,RS,43,11254,Lagoão,"6,461",Sim,2.0,2.0,15.0,2.0
+229,4311270,Lagoa dos Três Cantos,Lagoa dos Três Cantos,RS,43,11270,Lagoa dos Três Cantos,"1,607",Sim,2.0,1.0,4.0,1.0
+230,4311304,Lagoa Vermelha,Lagoa Vermelha,RS,43,11304,Lagoa Vermelha,"27,778",Sim,10.0,5.0,32.0,6.0
+231,4311403,Lajeado,Lajeado,RS,43,11403,Lajeado,"85,033",Sim,48.0,17.0,84.0,18.0
+232,4311429,Lajeado do Bugre,Lajeado do Bugre,RS,43,11429,Lajeado do Bugre,"2,566",Sim,2.0,1.0,6.0,1.0
+233,4311502,Lavras do Sul,Lavras do Sul,RS,43,11502,Lavras do Sul,"7,444",Sim,6.0,3.0,10.0,3.0
+234,4311601,Liberato Salzano,Liberato Salzano,RS,43,11601,Liberato Salzano,"5,152",Sim,4.0,2.0,12.0,2.0
+235,4311627,Lindolfo Collor,Lindolfo Collor,RS,43,11627,Lindolfo Collor,"6,125",Sim,1.0,1.0,8.0,2.0
+236,4311643,Linha Nova,Linha Nova,RS,43,11643,Linha Nova,"1,719",Sim,,,,
+237,4311700,Machadinho,Machadinho,RS,43,11700,Machadinho,"5,427",Sim,2.0,1.0,15.0,1.0
+238,4311718,Maçambará,Maçambará,RS,43,11718,Maçambará,"4,562",Sim,3.0,2.0,9.0,2.0
+239,4311734,Mampituba,Mampituba,RS,43,11734,Mampituba,"2,973",Sim,1.0,1.0,8.0,1.0
+240,4311759,Manoel Viana,Manoel Viana,RS,43,11759,Manoel Viana,"7,307",Sim,2.0,2.0,14.0,4.0
+241,4311775,Maquiné,Maquiné,RS,43,11775,Maquiné,"6,681",Sim,3.0,3.0,10.0,3.0
+242,4311791,Maratá,Maratá,RS,43,11791,Maratá,"2,702",Sim,1.0,2.0,6.0,1.0
+243,4311809,Marau,Marau,RS,43,11809,Marau,"44,858",Sim,17.0,12.0,62.0,15.0
+244,4311908,Marcelino Ramos,Marcelino Ramos,RS,43,11908,Marcelino Ramos,"4,319",Sim,7.0,3.0,13.0,2.0
+245,4311981,Mariana Pimentel,Mariana Pimentel,RS,43,11981,Mariana Pimentel,"3,888",Sim,0.0,0.0,2.0,1.0
+246,4312005,Mariano Moro,Mariano Moro,RS,43,12005,Mariano Moro,"2,009",Sim,1.0,2.0,6.0,1.0
+247,4312054,Marques de Souza,Marques de Souza,RS,43,12054,Marques de Souza,"3,995",Sim,4.0,3.0,7.0,2.0
+248,4312104,Mata,Mata,RS,43,12104,Mata,"4,797",Sim,3.0,3.0,10.0,3.0
+249,4312138,Mato Castelhano,Mato Castelhano,RS,43,12138,Mato Castelhano,"2,542",Sim,1.0,1.0,6.0,1.0
+250,4312153,Mato Leitão,Mato Leitão,RS,43,12153,Mato Leitão,"4,573",Sim,2.0,2.0,10.0,2.0
+251,4312179,Mato Queimado,Mato Queimado,RS,43,12179,Mato Queimado,"1,629",Sim,2.0,2.0,5.0,2.0
+252,4312203,Maximiliano de Almeida,Maximiliano de Almeida,RS,43,12203,Maximiliano de Almeida,"4,314",Sim,2.0,2.0,13.0,2.0
+253,4312252,Minas do Leão,Minas do Leão,RS,43,12252,Minas do Leão,"8,103",Sim,2.0,2.0,9.0,2.0
+254,4312302,Miraguaí,Miraguaí,RS,43,12302,Miraguaí,"4,911",Sim,2.0,2.0,12.0,2.0
+255,4312351,Montauri,Montauri,RS,43,12351,Montauri,"1,441",Sim,2.0,2.0,4.0,1.0
+256,4312377,Monte Alegre dos Campos,Monte Alegre dos Campos,RS,43,12377,Monte Alegre dos Campos,"3,232",Sim,2.0,2.0,8.0,2.0
+257,4312385,Monte Belo do Sul,Monte Belo do Sul,RS,43,12385,Monte Belo do Sul,"2,530",Sim,1.0,2.0,7.0,1.0
+258,4312401,Montenegro,Montenegro,RS,43,12401,Montenegro,"65,721",Sim,8.0,4.0,37.0,6.0
+259,4312427,Mormaço,Mormaço,RS,43,12427,Mormaço,"3,113",Sim,2.0,1.0,6.0,1.0
+260,4312443,Morrinhos do Sul,Morrinhos do Sul,RS,43,12443,Morrinhos do Sul,"2,919",Sim,1.0,1.0,7.0,1.0
+261,4312450,Morro Redondo,Morro Redondo,RS,43,12450,Morro Redondo,"6,589",Sim,3.0,3.0,10.0,3.0
+262,4312476,Morro Reuter,Morro Reuter,RS,43,12476,Morro Reuter,"6,513",Sim,,,,
+263,4312500,Mostardas,Mostardas,RS,43,12500,Mostardas,"12,847",Sim,22.0,5.0,14.0,5.0
+264,4312609,Muçum,Muçum,RS,43,12609,Muçum,"4,961",Sim,5.0,2.0,11.0,2.0
+265,4312617,Muitos Capões,Muitos Capões,RS,43,12617,Muitos Capões,"3,173",Sim,2.0,1.0,7.0,2.0
+266,4312625,Muliterno,Muliterno,RS,43,12625,Muliterno,"1,897",Sim,1.0,2.0,5.0,1.0
+267,4312658,Não-Me-Toque,Não-Me-Toque,RS,43,12658,Não-Me-Toque,"17,758",Sim,4.0,4.0,18.0,4.0
+268,4312674,Nicolau Vergueiro,Nicolau Vergueiro,RS,43,12674,Nicolau Vergueiro,"1,674",Sim,3.0,1.0,5.0,1.0
+269,4312708,Nonoai,Nonoai,RS,43,12708,Nonoai,"11,633",Sim,3.0,3.0,24.0,3.0
+270,4312757,Nova Alvorada,Nova Alvorada,RS,43,12757,Nova Alvorada,"3,663",Sim,6.0,2.0,10.0,6.0
+271,4312807,Nova Araçá,Nova Araçá,RS,43,12807,Nova Araçá,"4,826",Sim,2.0,1.0,9.0,1.0
+272,4312906,Nova Bassano,Nova Bassano,RS,43,12906,Nova Bassano,"10,005",Sim,6.0,4.0,22.0,4.0
+273,4312955,Nova Boa Vista,Nova Boa Vista,RS,43,12955,Nova Boa Vista,"1,753",Sim,1.0,1.0,5.0,1.0
+274,4313003,Nova Bréscia,Nova Bréscia,RS,43,13003,Nova Bréscia,"3,337",Sim,1.0,1.0,6.0,1.0
+275,4313011,Nova Candelária,Nova Candelária,RS,43,13011,Nova Candelária,"2,688",Sim,2.0,1.0,6.0,1.0
+276,4313037,Nova Esperança do Sul,Nova Esperança do Sul,RS,43,13037,Nova Esperança do Sul,"5,410",Sim,2.0,2.0,12.0,2.0
+277,4313060,Nova Hartz,Nova Hartz,RS,43,13060,Nova Hartz,"21,875",Sim,4.0,4.0,21.0,5.0
+278,4313086,Nova Pádua,Nova Pádua,RS,43,13086,Nova Pádua,"2,558",Sim,,,,
+279,4313102,Nova Palma,Nova Palma,RS,43,13102,Nova Palma,"6,515",Sim,3.0,3.0,17.0,3.0
+280,4313201,Nova Petrópolis,Nova Petrópolis,RS,43,13201,Nova Petrópolis,"21,536",Sim,21.0,9.0,42.0,0.0
+281,4313300,Nova Prata,Nova Prata,RS,43,13300,Nova Prata,"27,648",Sim,10.0,5.0,29.0,5.0
+282,4313334,Nova Ramada,Nova Ramada,RS,43,13334,Nova Ramada,"2,218",Sim,1.0,1.0,6.0,1.0
+283,4313359,Nova Roma do Sul,Nova Roma do Sul,RS,43,13359,Nova Roma do Sul,"3,717",Sim,1.0,1.0,7.0,1.0
+284,4313375,Nova Santa Rita,Nova Santa Rita,RS,43,13375,Nova Santa Rita,"29,905",Sim,10.0,5.0,23.0,5.0
+285,4313391,Novo Cabrais,Novo Cabrais,RS,43,13391,Novo Cabrais,"4,222",Sim,6.0,3.0,8.0,2.0
+286,4313409,Novo Hamburgo,Novo Hamburgo,RS,43,13409,Novo Hamburgo,"247,032",Sim,80.0,60.0,198.0,59.0
+287,4313425,Novo Machado,Novo Machado,RS,43,13425,Novo Machado,"3,256",Sim,3.0,2.0,12.0,2.0
+288,4313441,Novo Tiradentes,Novo Tiradentes,RS,43,13441,Novo Tiradentes,"2,200",Sim,7.0,1.0,6.0,1.0
+289,4313466,Novo Xingu,Novo Xingu,RS,43,13466,Novo Xingu,"1,712",Sim,3.0,2.0,5.0,2.0
+290,4313490,Novo Barreiro,Novo Barreiro,RS,43,13490,Novo Barreiro,"4,175",Sim,4.0,2.0,9.0,2.0
+291,4313508,Osório,Osório,RS,43,13508,Osório,"46,414",Sim,24.0,8.0,51.0,8.0
+292,4313607,Paim Filho,Paim Filho,RS,43,13607,Paim Filho,"3,778",Sim,2.0,2.0,12.0,2.0
+293,4313656,Palmares do Sul,Palmares do Sul,RS,43,13656,Palmares do Sul,"11,330",Sim,6.0,3.0,9.0,3.0
+294,4313706,Palmeira das Missões,Palmeira das Missões,RS,43,13706,Palmeira das Missões,"33,131",Sim,26.0,10.0,40.0,10.0
+295,4313805,Palmitinho,Palmitinho,RS,43,13805,Palmitinho,"7,056",Sim,6.0,4.0,17.0,5.0
+296,4313904,Panambi,Panambi,RS,43,13904,Panambi,"44,128",Sim,26.0,12.0,68.0,12.0
+297,4313953,Pantano Grande,Pantano Grande,RS,43,13953,Pantano Grande,"9,083",Sim,5.0,2.0,2.0,9.0
+298,4314001,Paraí,Paraí,RS,43,14001,Paraí,"7,727",Sim,3.0,2.0,16.0,2.0
+299,4314027,Paraíso do Sul,Paraíso do Sul,RS,43,14027,Paraíso do Sul,"7,623",Sim,1.0,1.0,5.0,1.0
+300,4314035,Pareci Novo,Pareci Novo,RS,43,14035,Pareci Novo,"3,862",Sim,1.0,1.0,7.0,2.0
+301,4314050,Parobé,Parobé,RS,43,14050,Parobé,"58,858",Sim,17.0,10.0,30.0,10.0
+302,4314068,Passa Sete,Passa Sete,RS,43,14068,Passa Sete,"5,747",Sim,2.0,3.0,12.0,3.0
+303,4314076,Passo do Sobrado,Passo do Sobrado,RS,43,14076,Passo do Sobrado,"6,574",Sim,4.0,2.0,14.0,2.0
+304,4314100,Passo Fundo,Passo Fundo,RS,43,14100,Passo Fundo,"204,722",Sim,29.0,15.0,62.0,19.0
+305,4314134,Paulo Bento,Paulo Bento,RS,43,14134,Paulo Bento,"2,299",Sim,1.0,1.0,6.0,1.0
+306,4314159,Paverama,Paverama,RS,43,14159,Paverama,"8,515",Sim,2.0,2.0,14.0,4.0
+307,4314175,Pedras Altas,Pedras Altas,RS,43,14175,Pedras Altas,"1,954",Sim,1.0,1.0,6.0,1.0
+308,4314209,Pedro Osório,Pedro Osório,RS,43,14209,Pedro Osório,"7,706",Sim,3.0,2.0,11.0,2.0
+309,4314308,Pejuçara,Pejuçara,RS,43,14308,Pejuçara,"3,857",Sim,3.0,3.0,11.0,4.0
+310,4314407,Pelotas,Pelotas,RS,43,14407,Pelotas,"343,132",Sim,76.0,76.0,340.0,76.0
+311,4314423,Picada Café,Picada Café,RS,43,14423,Picada Café,"5,738",Sim,3.0,2.0,10.0,2.0
+312,4314456,Pinhal,Pinhal,RS,43,14456,Pinhal,"2,580",Sim,2.0,2.0,6.0,1.0
+313,4314464,Pinhal da Serra,Pinhal da Serra,RS,43,14464,Pinhal da Serra,"1,918",Sim,1.0,1.0,6.0,1.0
+314,4314472,Pinhal Grande,Pinhal Grande,RS,43,14472,Pinhal Grande,"4,329",Sim,2.0,2.0,10.0,2.0
+315,4314498,Pinheirinho do Vale,Pinheirinho do Vale,RS,43,14498,Pinheirinho do Vale,"4,899",Sim,1.0,1.0,10.0,1.0
+316,4314506,Pinheiro Machado,Pinheiro Machado,RS,43,14506,Pinheiro Machado,"12,195",Sim,5.0,5.0,18.0,5.0
+317,4314555,Pirapó,Pirapó,RS,43,14555,Pirapó,"2,254",Sim,8.0,2.0,8.0,2.0
+318,4314605,Piratini,Piratini,RS,43,14605,Piratini,"20,704",Sim,5.0,4.0,17.0,4.0
+319,4314704,Planalto,Planalto,RS,43,14704,Planalto,"10,019",Sim,7.0,5.0,20.0,5.0
+320,4314753,Poço das Antas,Poço das Antas,RS,43,14753,Poço das Antas,"2,101",Sim,,,,
+321,4314779,Pontão,Pontão,RS,43,14779,Pontão,"3,901",Sim,2.0,2.0,10.0,2.0
+322,4314787,Ponte Preta,Ponte Preta,RS,43,14787,Ponte Preta,"1,524",Sim,1.0,1.0,6.0,1.0
+323,4314803,Portão,Portão,RS,43,14803,Portão,"37,561",Sim,10.0,5.0,25.0,6.0
+324,4314902,Porto Alegre,Porto Alegre,RS,43,14902,Porto Alegre,"1,488,252",Sim,359.0,233.0,779.0,55.0
+325,4315008,Porto Lucena,Porto Lucena,RS,43,15008,Porto Lucena,"4,594",Sim,2.0,2.0,14.0,2.0
+326,4315057,Porto Mauá,Porto Mauá,RS,43,15057,Porto Mauá,"2,352",Sim,1.0,1.0,7.0,1.0
+327,4315073,Porto Vera Cruz,Porto Vera Cruz,RS,43,15073,Porto Vera Cruz,"1,308",Sim,1.0,1.0,4.0,1.0
+328,4315107,Porto Xavier,Porto Xavier,RS,43,15107,Porto Xavier,"10,194",Sim,7.0,4.0,26.0,3.0
+329,4315131,Pouso Novo,Pouso Novo,RS,43,15131,Pouso Novo,"1,612",Sim,2.0,1.0,5.0,1.0
+330,4315149,Presidente Lucena,Presidente Lucena,RS,43,15149,Presidente Lucena,"2,937",Sim,,,,
+331,4315156,Progresso,Progresso,RS,43,15156,Progresso,"6,239",Sim,2.0,2.0,15.0,2.0
+332,4315172,Protásio Alves,Protásio Alves,RS,43,15172,Protásio Alves,"1,938",Sim,3.0,1.0,5.0,1.0
+333,4315206,Putinga,Putinga,RS,43,15206,Putinga,"3,889",Sim,2.0,2.0,11.0,3.0
+334,4315305,Quaraí,Quaraí,RS,43,15305,Quaraí,"22,607",Sim,10.0,6.0,25.0,6.0
+335,4315313,Quatro Irmãos,Quatro Irmãos,RS,43,15313,Quatro Irmãos,"1,856",Sim,2.0,3.0,6.0,3.0
+336,4315321,Quevedos,Quevedos,RS,43,15321,Quevedos,"2,790",Sim,1.0,1.0,5.0,1.0
+337,4315354,Quinze de Novembro,Quinze de Novembro,RS,43,15354,Quinze de Novembro,"3,803",Sim,1.0,1.0,8.0,1.0
+338,4315404,Redentora,Redentora,RS,43,15404,Redentora,"11,669",Sim,4.0,4.0,19.0,4.0
+339,4315453,Relvado,Relvado,RS,43,15453,Relvado,"2,079",Sim,1.0,1.0,5.0,1.0
+340,4315503,Restinga Seca,Restinga Seca,RS,43,15503,Restinga Sêca,"15,744",Sim,4.0,2.0,7.0,2.0
+341,4315552,Rio dos Índios,Rio dos Índios,RS,43,15552,Rio dos Índios,"2,660",Sim,2.0,2.0,12.0,1.0
+342,4315602,Rio Grande,Rio Grande,RS,43,15602,Rio Grande,"211,965",Sim,61.0,48.0,156.0,14.0
+343,4315701,Rio Pardo,Rio Pardo,RS,43,15701,Rio Pardo,"38,265",Sim,10.0,5.0,54.0,5.0
+344,4315750,Riozinho,Riozinho,RS,43,15750,Riozinho,"4,676",Sim,2.0,2.0,11.0,2.0
+345,4315800,Roca Sales,Roca Sales,RS,43,15800,Roca Sales,"11,471",Sim,2.0,2.0,9.0,2.0
+346,4315909,Rodeio Bonito,Rodeio Bonito,RS,43,15909,Rodeio Bonito,"5,868",Sim,5.0,4.0,14.0,3.0
+347,4315958,Rolador,Rolador,RS,43,15958,Rolador,"2,296",Sim,4.0,1.0,6.0,3.0
+348,4316006,Rolante,Rolante,RS,43,16006,Rolante,"21,453",Sim,12.0,7.0,28.0,7.0
+349,4316105,Ronda Alta,Ronda Alta,RS,43,16105,Ronda Alta,"10,617",Sim,10.0,5.0,5.0,6.0
+350,4316204,Rondinha,Rondinha,RS,43,16204,Rondinha,"5,080",Sim,3.0,3.0,14.0,2.0
+351,4316303,Roque Gonzales,Roque Gonzales,RS,43,16303,Roque Gonzales,"6,797",Sim,3.0,4.0,18.0,2.0
+352,4316402,Rosário do Sul,Rosário do Sul,RS,43,16402,Rosário do Sul,"39,314",Sim,5.0,5.0,40.0,5.0
+353,4316428,Sagrada Família,Sagrada Família,RS,43,16428,Sagrada Família,"2,605",Sim,6.0,2.0,6.0,2.0
+354,4316436,Saldanha Marinho,Saldanha Marinho,RS,43,16436,Saldanha Marinho,"2,622",Sim,1.0,1.0,7.0,1.0
+355,4316451,Salto do Jacuí,Salto do Jacuí,RS,43,16451,Salto do Jacuí,"12,481",Sim,7.0,4.0,20.0,4.0
+356,4316477,Salvador das Missões,Salvador das Missões,RS,43,16477,Salvador das Missões,"2,733",Sim,1.0,1.0,7.0,1.0
+357,4316501,Salvador do Sul,Salvador do Sul,RS,43,16501,Salvador do Sul,"7,889",Sim,5.0,2.0,13.0,2.0
+358,4316600,Sananduva,Sananduva,RS,43,16600,Sananduva,"16,328",Sim,10.0,5.0,23.0,5.0
+359,4316709,Santa Bárbara do Sul,Santa Bárbara do Sul,RS,43,16709,Santa Bárbara do Sul,"7,909",Sim,2.0,1.0,11.0,1.0
+360,4316733,Santa Cecília do Sul,Santa Cecília do Sul,RS,43,16733,Santa Cecília do Sul,"1,634",Sim,2.0,2.0,2.0,4.0
+361,4316758,Santa Clara do Sul,Santa Clara do Sul,RS,43,16758,Santa Clara do Sul,"6,681",Sim,2.0,2.0,14.0,2.0
+362,4316808,Santa Cruz do Sul,Santa Cruz do Sul,RS,43,16808,Santa Cruz do Sul,"131,365",Sim,54.0,26.0,137.0,26.0
+363,4316907,Santa Maria,Santa Maria,RS,43,16907,Santa Maria,"283,677",Sim,22.0,20.0,113.0,21.0
+364,4316956,Santa Maria do Herval,Santa Maria do Herval,RS,43,16956,Santa Maria do Herval,"6,364",Sim,2.0,2.0,5.0,2.0
+365,4316972,Santa Margarida do Sul,Santa Margarida do Sul,RS,43,16972,Santa Margarida do Sul,"2,578",Sim,2.0,1.0,6.0,1.0
+366,4317004,Santana da Boa Vista,Santana da Boa Vista,RS,43,17004,Santana da Boa Vista,"8,067",Sim,4.0,2.0,11.0,2.0
+367,4317103,Sant' Ana do Livramento,Sant' Ana do Livramento,RS,43,17103,Sant'Ana do Livramento,"76,321",Sim,0.0,11.0,61.0,13.0
+368,4317202,Santa Rosa,Santa Rosa,RS,43,17202,Santa Rosa,"73,575",Sim,76.0,25.0,88.0,22.0
+369,4317251,Santa Tereza,Santa Tereza,RS,43,17251,Santa Tereza,"1,726",Sim,3.0,1.0,4.0,1.0
+370,4317301,Santa Vitória do Palmar,Santa Vitória do Palmar,RS,43,17301,Santa Vitória do Palmar,"29,483",Sim,15.0,15.0,30.0,15.0
+371,4317400,Santiago,Santiago,RS,43,17400,Santiago,"49,360",Sim,22.0,11.0,66.0,11.0
+372,4317509,Santo Ângelo,Santo Ângelo,RS,43,17509,Santo Ângelo,"77,568",Sim,9.0,9.0,32.0,11.0
+373,4317558,Santo Antônio do Palma,Santo Antônio do Palma,RS,43,17558,Santo Antônio do Palma,"2,123",Sim,1.0,1.0,5.0,1.0
+374,4317608,Santo Antônio da Patrulha,Santo Antônio da Patrulha,RS,43,17608,Santo Antônio da Patrulha,"43,171",Sim,24.0,8.0,45.0,8.0
+375,4317707,Santo Antônio das Missões,Santo Antônio das Missões,RS,43,17707,Santo Antônio das Missões,"10,050",Sim,3.0,3.0,32.0,3.0
+376,4317756,Santo Antônio do Planalto,Santo Antônio do Planalto,RS,43,17756,Santo Antônio do Planalto,"2,019",Sim,3.0,1.0,6.0,1.0
+377,4317806,Santo Augusto,Santo Augusto,RS,43,17806,Santo Augusto,"13,848",Sim,12.0,6.0,28.0,6.0
+378,4317905,Santo Cristo,Santo Cristo,RS,43,17905,Santo Cristo,"14,216",Sim,6.0,6.0,20.0,4.0
+379,4317954,Santo Expedito do Sul,Santo Expedito do Sul,RS,43,17954,Santo Expedito do Sul,"2,305",Sim,1.0,1.0,6.0,1.0
+380,4318002,São Borja,São Borja,RS,43,18002,São Borja,"60,019",Sim,14.0,16.0,108.0,14.0
+381,4318051,São Domingos do Sul,São Domingos do Sul,RS,43,18051,São Domingos do Sul,"3,083",Sim,1.0,1.0,8.0,1.0
+382,4318101,São Francisco de Assis,São Francisco de Assis,RS,43,18101,São Francisco de Assis,"18,205",Sim,8.0,4.0,38.0,4.0
+383,4318200,São Francisco de Paula,São Francisco de Paula,RS,43,18200,São Francisco de Paula,"21,801",Sim,14.0,5.0,18.0,5.0
+384,4318309,São Gabriel,São Gabriel,RS,43,18309,São Gabriel,"62,147",Sim,17.0,17.0,107.0,15.0
+385,4318408,São Jerônimo,São Jerônimo,RS,43,18408,São Jerônimo,"24,412",Sim,3.0,3.0,18.0,3.0
+386,4318424,São João da Urtiga,São João da Urtiga,RS,43,18424,São João da Urtiga,"4,641",Sim,1.0,1.0,12.0,1.0
+387,4318432,São João do Polêsine,São João do Polêsine,RS,43,18432,São João do Polêsine,"2,543",Sim,1.0,1.0,6.0,1.0
+388,4318440,São Jorge,São Jorge,RS,43,18440,São Jorge,"2,816",Sim,3.0,1.0,7.0,2.0
+389,4318457,São José das Missões,São José das Missões,RS,43,18457,São José das Missões,"2,514",Sim,2.0,1.0,0.0,1.0
+390,4318465,São José do Herval,São José do Herval,RS,43,18465,São José do Herval,"1,943",Sim,2.0,2.0,6.0,2.0
+391,4318481,São José do Hortêncio,São José do Hortêncio,RS,43,18481,São José do Hortêncio,"4,865",Sim,1.0,1.0,9.0,1.0
+392,4318499,São José do Inhacorá,São José do Inhacorá,RS,43,18499,São José do Inhacorá,"2,056",Sim,3.0,1.0,6.0,2.0
+393,4318507,São José do Norte,São José do Norte,RS,43,18507,São José do Norte,"27,721",Sim,6.0,6.0,29.0,6.0
+394,4318606,São José do Ouro,São José do Ouro,RS,43,18606,São José do Ouro,"6,922",Sim,2.0,1.0,8.0,1.0
+395,4318614,São José do Sul,São José do Sul,RS,43,18614,São José do Sul,"2,437",Sim,2.0,1.0,8.0,1.0
+396,4318622,São José dos Ausentes,São José dos Ausentes,RS,43,18622,São José dos Ausentes,"3,543",Sim,2.0,2.0,8.0,3.0
+397,4318705,São Leopoldo,São Leopoldo,RS,43,18705,São Leopoldo,"238,648",Sim,20.0,13.0,79.0,13.0
+398,4318804,São Lourenço do Sul,São Lourenço do Sul,RS,43,18804,São Lourenço do Sul,"43,540",Sim,17.0,17.0,69.0,15.0
+399,4318903,São Luiz Gonzaga,São Luiz Gonzaga,RS,43,18903,São Luiz Gonzaga,"33,293",Sim,18.0,11.0,68.0,10.0
+400,4319000,São Marcos,São Marcos,RS,43,19000,São Marcos,"21,658",Sim,5.0,3.0,17.0,3.0
+401,4319109,São Martinho,São Martinho,RS,43,19109,São Martinho,"5,380",Sim,8.0,3.0,15.0,2.0
+402,4319125,São Martinho da Serra,São Martinho da Serra,RS,43,19125,São Martinho da Serra,"3,231",Sim,1.0,1.0,9.0,1.0
+403,4319158,São Miguel das Missões,São Miguel das Missões,RS,43,19158,São Miguel das Missões,"7,683",Sim,4.0,3.0,19.0,3.0
+404,4319208,São Nicolau,São Nicolau,RS,43,19208,São Nicolau,"5,208",Sim,10.0,4.0,16.0,2.0
+405,4319307,São Paulo das Missões,São Paulo das Missões,RS,43,19307,São Paulo das Missões,"5,720",Sim,4.0,3.0,13.0,3.0
+406,4319356,São Pedro da Serra,São Pedro da Serra,RS,43,19356,São Pedro da Serra,"3,842",Sim,1.0,1.0,8.0,1.0
+407,4319364,São Pedro das Missões,São Pedro das Missões,RS,43,19364,São Pedro das Missões,"2,017",Sim,2.0,1.0,5.0,1.0
+408,4319372,São Pedro do Butiá,São Pedro do Butiá,RS,43,19372,São Pedro do Butiá,"2,949",Sim,3.0,2.0,7.0,2.0
+409,4319406,São Pedro do Sul,São Pedro do Sul,RS,43,19406,São Pedro do Sul,"16,148",Sim,7.0,5.0,33.0,5.0
+410,4319505,São Sebastião do Caí,São Sebastião do Caí,RS,43,19505,São Sebastião do Caí,"25,959",Sim,7.0,6.0,20.0,7.0
+411,4319604,São Sepé,São Sepé,RS,43,19604,São Sepé,"23,555",Sim,12.0,7.0,39.0,7.0
+412,4319703,São Valentim,São Valentim,RS,43,19703,São Valentim,"3,259",Sim,2.0,2.0,10.0,2.0
+413,4319711,São Valentim do Sul,São Valentim do Sul,RS,43,19711,São Valentim do Sul,"2,245",Sim,2.0,2.0,5.0,1.0
+414,4319737,São Valério do Sul,São Valério do Sul,RS,43,19737,São Valério do Sul,"2,729",Sim,3.0,2.0,5.0,1.0
+415,4319752,São Vendelino,São Vendelino,RS,43,19752,São Vendelino,"2,266",Sim,1.0,1.0,5.0,1.0
+416,4319802,São Vicente do Sul,São Vicente do Sul,RS,43,19802,São Vicente do Sul,"8,732",Sim,4.0,4.0,8.0,5.0
+417,4319901,Sapiranga,Sapiranga,RS,43,19901,Sapiranga,"80,037",Sim,14.0,7.0,37.0,8.0
+418,4320008,Sapucaia do Sul,Sapucaia do Sul,RS,43,20008,Sapucaia do Sul,"141,808",Sim,84.0,24.0,109.0,35.0
+419,4320107,Sarandi,Sarandi,RS,43,20107,Sarandi,"24,763",Sim,6.0,3.0,23.0,3.0
+420,4320206,Seberi,Seberi,RS,43,20206,Seberi,"10,713",Sim,5.0,5.0,24.0,4.0
+421,4320230,Sede Nova,Sede Nova,RS,43,20230,Sede Nova,"2,891",Sim,3.0,2.0,8.0,2.0
+422,4320263,Segredo,Segredo,RS,43,20263,Segredo,"7,444",Sim,7.0,3.0,17.0,3.0
+423,4320305,Selbach,Selbach,RS,43,20305,Selbach,"5,107",Sim,1.0,2.0,6.0,1.0
+424,4320321,Senador Salgado Filho,Senador Salgado Filho,RS,43,20321,Senador Salgado Filho,"2,770",Sim,3.0,2.0,7.0,2.0
+425,4320354,Sentinela do Sul,Sentinela do Sul,RS,43,20354,Sentinela do Sul,"5,609",Sim,1.0,1.0,4.0,1.0
+426,4320404,Serafina Corrêa,Serafina Corrêa,RS,43,20404,Serafina Corrêa,"17,795",Sim,10.0,8.0,27.0,13.0
+427,4320453,Sério,Sério,RS,43,20453,Sério,"1,924",Sim,3.0,1.0,6.0,1.0
+428,4320503,Sertão,Sertão,RS,43,20503,Sertão,"5,315",Sim,3.0,3.0,18.0,3.0
+429,4320552,Sertão Santana,Sertão Santana,RS,43,20552,Sertão Santana,"6,537",Sim,1.0,1.0,6.0,1.0
+430,4320578,Sete de Setembro,Sete de Setembro,RS,43,20578,Sete de Setembro,"1,950",Sim,4.0,1.0,6.0,1.0
+431,4320602,Severiano de Almeida,Severiano de Almeida,RS,43,20602,Severiano de Almeida,"3,631",Sim,1.0,1.0,9.0,1.0
+432,4320651,Silveira Martins,Silveira Martins,RS,43,20651,Silveira Martins,"2,374",Sim,1.0,1.0,4.0,1.0
+433,4320677,Sinimbu,Sinimbu,RS,43,20677,Sinimbu,"10,162",Sim,2.0,2.0,18.0,2.0
+434,4320701,Sobradinho,Sobradinho,RS,43,20701,Sobradinho,"15,005",Sim,7.0,6.0,28.0,6.0
+435,4320800,Soledade,Soledade,RS,43,20800,Soledade,"31,035",Sim,6.0,6.0,24.0,6.0
+436,4320859,Tabaí,Tabaí,RS,43,20859,Tabaí,"4,769",Sim,2.0,2.0,12.0,2.0
+437,4320909,Tapejara,Tapejara,RS,43,20909,Tapejara,"24,552",Sim,11.0,5.0,30.0,6.0
+438,4321006,Tapera,Tapera,RS,43,21006,Tapera,"10,577",Sim,10.0,4.0,26.0,4.0
+439,4321105,Tapes,Tapes,RS,43,21105,Tapes,"17,332",Sim,7.0,6.0,24.0,4.0
+440,4321204,Taquara,Taquara,RS,43,21204,Taquara,"57,584",Sim,13.0,13.0,50.0,17.0
+441,4321303,Taquari,Taquari,RS,43,21303,Taquari,"26,885",Sim,8.0,4.0,37.0,4.0
+442,4321329,Taquaruçu do Sul,Taquaruçu do Sul,RS,43,21329,Taquaruçu do Sul,"3,077",Sim,1.0,1.0,7.0,1.0
+443,4321352,Tavares,Tavares,RS,43,21352,Tavares,"5,483",Sim,1.0,1.0,9.0,1.0
+444,4321402,Tenente Portela,Tenente Portela,RS,43,21402,Tenente Portela,"13,434",Sim,12.0,4.0,29.0,5.0
+445,4321436,Terra de Areia,Terra de Areia,RS,43,21436,Terra de Areia,"11,315",Sim,4.0,2.0,26.0,2.0
+446,4321451,Teutônia,Teutônia,RS,43,21451,Teutônia,"33,766",Sim,9.0,3.0,25.0,4.0
+447,4321469,Tio Hugo,Tio Hugo,RS,43,21469,Tio Hugo,"3,055",Sim,1.0,1.0,6.0,1.0
+448,4321477,Tiradentes do Sul,Tiradentes do Sul,RS,43,21477,Tiradentes do Sul,"5,616",Sim,6.0,2.0,18.0,2.0
+449,4321493,Toropi,Toropi,RS,43,21493,Toropi,"2,772",Sim,4.0,2.0,7.0,3.0
+450,4321501,Torres,Torres,RS,43,21501,Torres,"39,064",Sim,6.0,9.0,32.0,6.0
+451,4321600,Tramandaí,Tramandaí,RS,43,21600,Tramandaí,"52,632",Sim,10.0,5.0,46.0,5.0
+452,4321626,Travesseiro,Travesseiro,RS,43,21626,Travesseiro,"2,334",Sim,,,,
+453,4321634,Três Arroios,Três Arroios,RS,43,21634,Três Arroios,"2,643",Sim,1.0,1.0,7.0,1.0
+454,4321667,Três Cachoeiras,Três Cachoeiras,RS,43,21667,Três Cachoeiras,"11,115",Sim,7.0,3.0,20.0,4.0
+455,4321709,Três Coroas,Três Coroas,RS,43,21709,Três Coroas,"28,581",Sim,4.0,3.0,14.0,3.0
+456,4321808,Três de Maio,Três de Maio,RS,43,21808,Três de Maio,"23,876",Sim,37.0,7.0,42.0,7.0
+457,4321832,Três Forquilhas,Três Forquilhas,RS,43,21832,Três Forquilhas,"2,669",Sim,,,,
+458,4321857,Três Palmeiras,Três Palmeiras,RS,43,21857,Três Palmeiras,"4,251",Sim,9.0,6.0,10.0,2.0
+459,4321907,Três Passos,Três Passos,RS,43,21907,Três Passos,"23,852",Sim,8.0,8.0,48.0,8.0
+460,4321956,Trindade do Sul,Trindade do Sul,RS,43,21956,Trindade do Sul,"5,791",Sim,6.0,3.0,7.0,3.0
+461,4322004,Triunfo,Triunfo,RS,43,22004,Triunfo,"29,856",Sim,20.0,9.0,68.0,9.0
+462,4322103,Tucunduva,Tucunduva,RS,43,22103,Tucunduva,"5,644",Sim,5.0,3.0,16.0,2.0
+463,4322152,Tunas,Tunas,RS,43,22152,Tunas,"4,577",Sim,6.0,2.0,10.0,2.0
+464,4322186,Tupanci do Sul,Tupanci do Sul,RS,43,22186,Tupanci do Sul,"1,459",Sim,4.0,1.0,4.0,1.0
+465,4322202,Tupanciretã,Tupanciretã,RS,43,22202,Tupanciretã,"24,068",Sim,7.0,3.0,14.0,3.0
+466,4322251,Tupandi,Tupandi,RS,43,22251,Tupandi,"4,939",Sim,2.0,1.0,9.0,1.0
+467,4322301,Tuparendi,Tuparendi,RS,43,22301,Tuparendi,"7,810",Sim,5.0,4.0,22.0,3.0
+468,4322327,Turuçu,Turuçu,RS,43,22327,Turuçu,"3,423",Sim,2.0,2.0,9.0,2.0
+469,4322343,Ubiretama,Ubiretama,RS,43,22343,Ubiretama,"1,983",Sim,6.0,1.0,6.0,2.0
+470,4322350,União da Serra,União da Serra,RS,43,22350,União da Serra,"1,118",Sim,1.0,1.0,4.0,1.0
+471,4322376,Unistalda,Unistalda,RS,43,22376,Unistalda,"2,321",Sim,1.0,1.0,7.0,1.0
+472,4322400,Uruguaiana,Uruguaiana,RS,43,22400,Uruguaiana,"126,866",Sim,20.0,13.0,18.0,30.0
+473,4322509,Vacaria,Vacaria,RS,43,22509,Vacaria,"66,575",Sim,29.0,13.0,86.0,13.0
+474,4322525,Vale Verde,Vale Verde,RS,43,22525,Vale Verde,"3,515",Sim,1.0,1.0,8.0,2.0
+475,4322533,Vale do Sol,Vale do Sol,RS,43,22533,Vale do Sol,"11,828",Sim,4.0,4.0,27.0,4.0
+476,4322541,Vale Real,Vale Real,RS,43,22541,Vale Real,"5,981",Sim,8.0,3.0,13.0,3.0
+477,4322558,Vanini,Vanini,RS,43,22558,Vanini,"2,122",Sim,2.0,1.0,4.0,1.0
+478,4322608,Venâncio Aires,Venâncio Aires,RS,43,22608,Venâncio Aires,"71,973",Sim,11.0,8.0,34.0,8.0
+479,4322707,Vera Cruz,Vera Cruz,RS,43,22707,Vera Cruz,"27,099",Sim,9.0,3.0,40.0,3.0
+480,4322806,Veranópolis,Veranópolis,RS,43,22806,Veranópolis,"26,533",Sim,8.0,4.0,24.0,8.0
+481,4322855,Vespasiano Correa,Vespasiano Correa,RS,43,22855,Vespasiano Corrêa,"1,795",Sim,1.0,1.0,6.0,1.0
+482,4322905,Viadutos,Viadutos,RS,43,22905,Viadutos,"4,690",Sim,2.0,2.0,12.0,2.0
+483,4323002,Viamão,Viamão,RS,43,23002,Viamão,"256,302",Sim,66.0,32.0,100.0,52.0
+484,4323101,Vicente Dutra,Vicente Dutra,RS,43,23101,Vicente Dutra,"4,599",Sim,2.0,2.0,6.0,2.0
+485,4323200,Victor Graeff,Victor Graeff,RS,43,23200,Victor Graeff,"2,860",Sim,0.0,1.0,8.0,1.0
+486,4323309,Vila Flores,Vila Flores,RS,43,23309,Vila Flores,"3,396",Sim,1.0,1.0,7.0,2.0
+487,4323358,Vila Lângaro,Vila Lângaro,RS,43,23358,Vila Lângaro,"2,080",Sim,1.0,1.0,5.0,1.0
+488,4323408,Vila Maria,Vila Maria,RS,43,23408,Vila Maria,"4,363",Sim,3.0,1.0,11.0,1.0
+489,4323457,Vila Nova do Sul,Vila Nova do Sul,RS,43,23457,Vila Nova do Sul,"4,277",Sim,1.0,2.0,9.0,1.0
+490,4323507,Vista Alegre,Vista Alegre,RS,43,23507,Vista Alegre,"2,739",Sim,1.0,1.0,7.0,1.0
+491,4323606,Vista Alegre do Prata,Vista Alegre do Prata,RS,43,23606,Vista Alegre do Prata,"1,557",Sim,1.0,1.0,4.0,2.0
+492,4323705,Vista Gaúcha,Vista Gaúcha,RS,43,23705,Vista Gaúcha,"2,855",Sim,1.0,1.0,7.0,1.0
+493,4323754,Vitória das Missões,Vitória das Missões,RS,43,23754,Vitória das Missões,"3,092",Sim,4.0,1.0,9.0,1.0
+494,4323770,Westfalia,Westfalia,RS,43,23770,Westfália,"3,031",Sim,1.0,1.0,6.0,1.0
+495,4323804,Xangri-lá,Xangri-lá,RS,43,23804,Xangri-lá,"16,775",Sim,3.0,5.0,23.0,4.0
