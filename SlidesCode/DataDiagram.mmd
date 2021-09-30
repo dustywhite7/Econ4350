@@ -1,0 +1,11 @@
+graph LR
+    A[customers.csv] -->|Customer ID| J[Customers with Location]
+    B[geolocation.csv] -->|Customer ID| J[Customers with Location]
+    C[olist_products.csv] -->|Product ID| G[Products with names]
+    D[order_items.csv]  -->|Order ID| I[Orders with items]
+    E[orders.csv] -->|Order ID| I[Orders with items]
+    F[product_names.csv] -->|Product ID| G[Products with names]
+    G[Products with names] -->|Product ID| H[Orders with products]
+    I[Orders with items] -->|Product ID| H[Orders with products]
+    J --> |Customer ID| K[Fully Merged Data Set]
+    H --> |Customer ID| K[Fully Merged Data Set]

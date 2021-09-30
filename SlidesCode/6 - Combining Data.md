@@ -32,7 +32,26 @@ But sometimes we need to increase the context of our data by combining it with o
 
 The Kaggle website has [Brazilian retail data](https://www.kaggle.com/olistbr/brazilian-ecommerce#) available for us to experiment with. 
 
-Let's combine these data sources to create insight. I have [trimmed the data down](https://github.com/dustywhite7/Econ4350/tree/master/Data/BrazilianSalesDataRS) to just Rio Grande do Sul (again) so that Tableau doesn't break.
+Let's combine these data sources to create insight. I have [trimmed the data down](https://github.com/dustywhite7/Econ4350/tree/master/Data/BrazilianSalesDataRS) to just Rio Grande do Sul (again) so that Power BI doesn't explode.
+
+---
+
+# Blend the data sources
+
+Start with the following files:
+
+1) customers.csv
+2) geolocation.csv
+3) olist_products.csv
+4) product_names.csv
+5) order_items.csv
+6) orders.csv
+
+---
+
+# Blend the data sources
+
+![](DataDiagram.png)
 
 ---
 
@@ -40,7 +59,7 @@ Let's combine these data sources to create insight. I have [trimmed the data dow
 
 We could combine the data with **public microdata** to better understand our consumers in different locations!
 
-Let's blend the sales data with our geographic data from before!
+Let's blend the sales data with our demographic data from our health care maps last week.
 
 ---
 
@@ -53,12 +72,12 @@ Let's blend the sales data with our geographic data from before!
 
 # Calculated Fields and Formulas
 
-Just like in Excel (or in any programming language!), we are able to create new fields on the fly in Tableau.
+Just like in Excel (or in any programming language!), we are able to create new fields on the fly in Power BI.
 
-Here is a [detailed series of tutorials on Calculated Fields](https://interworks.com/blog/ccapitula/2015/03/24/tableau-essentials-calculated-fields-introduction), although it makes me nervous that she seemed to be using Windows XP in 2015...
+Here is a [detailed tutorial with additional links on Calculated Columns](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns)
 
 ---
 
-# Using Tableau
+# Using Power BI
 
 As we visualize our data, the primary limitation is our ability to imagine new ways to present the information at our finger tips!
