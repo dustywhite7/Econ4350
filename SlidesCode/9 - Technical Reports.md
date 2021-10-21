@@ -29,14 +29,14 @@ size: 4:3
 
 ---
 
-# Gathering and Analyzing the Data
+# Steps 1/2 -  Gathering and Analyzing the Data
 
 See the first half of the class! 
 
 ---
 
 
-# Sorting the Data
+# Step 3 -  Sorting the Data
 
 - What do I need to tell my audience about?
 - What results are worth discussing?
@@ -69,7 +69,7 @@ Write **one sentence** describing the subject, scope, and purpose of your report
 
 ---
 
-# Outline the Report
+# Step 4 - Outline the Report
 
 > Without an outline most inexperienced authors write reports that are confusing and difficult to follow
 
@@ -91,7 +91,7 @@ Write **one sentence** describing the subject, scope, and purpose of your report
 
 ---
 
-# Write the First Draft
+# Step 5 - Write the First Draft
 
 1. Write a draft right after you complete your outline
 2. Review this draft for technical accuracy/organization
@@ -103,7 +103,7 @@ Write **one sentence** describing the subject, scope, and purpose of your report
 
 ---
 
-# Revise the Draft
+# Step 6 - Revise the Draft (REPEATED)
 
 1. Set the draft aside for a while (maybe a couple days)
 2. Review the draft for
@@ -126,8 +126,18 @@ Each review should be complete and independent of the others. At this point, you
 
 # Style Tips - Part 2
 
-1. Write naturally
+4. Write naturally
     - Don't be overly formal
     - Don't bother with words outside of your vocabulary
-2. State your conclusions as soon as you can
-3. Emphasize major ideas
+5. State your conclusions as soon as you can
+6. Emphasize major ideas
+
+---
+
+# Your Assignment
+
+Rewrite your summary from the midterm!
+
+---
+
+# Exercises for Presenting
