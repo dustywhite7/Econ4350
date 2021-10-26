@@ -45,7 +45,7 @@ Write an executive summary to
 
 - Read through your report
 - Find the most important statements and results
-- Decide how you will convince your audience that the results matter
+- Just like you did in the technical report, decide how to convince the audience that the results matter
 
 ---
 
@@ -85,7 +85,5 @@ Until you finish the Executive Summary
 ---
 
 # Examples
-
-[A few examples of Executive Summaries](https://unilearning.uow.edu.au/report/4bi1.html)
 
 [Some guides to writing Executive Summaries that I collected](https://github.com/dustywhite7/Econ4350/tree/master/Documents)
