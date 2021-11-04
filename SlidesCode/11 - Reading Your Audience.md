@@ -20,7 +20,7 @@ Our relationship with the audience will dictate in part how much our work is tru
 
 # How to get comfortable presenting
 
-![](https://media2.giphy.com/media/8vkEKXvnXkyCZx8w6b/giphy.gif)
+[![](https://media2.giphy.com/media/8vkEKXvnXkyCZx8w6b/giphy.gif)](https://www.youtube.com/watch?v=tknXRyUEJtU)
 
 ---
 
@@ -87,3 +87,12 @@ Our relationship with the audience will dictate in part how much our work is tru
 ---
 
 # The best way to improve your presenting is to do it, and learn from your own mistakes
+
+---
+
+# 5 minutes to prep, 2 to present
+
+Teach us about a science (biology, phsyics, astronomy, chemistry, social sciences) fact that you know that we probably don't
+- No props
+- No slides
+- Just you teaching us :smiley:
