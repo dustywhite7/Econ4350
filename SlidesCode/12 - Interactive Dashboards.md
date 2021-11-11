@@ -31,4 +31,4 @@ In order to make a presentation with a dashboard, we need to tie everything in o
 
 # Learn by doing!
 
-Let's dive in!
+Let's dive in! I'll walk you through an example (using [Stedman's Cafe Transaction Data](https://github.com/dustywhite7/Econ8310/blob/master/AssignmentData/assignment3.csv?raw=true)), then provide you time to create your own interactive dashboard to present with.
