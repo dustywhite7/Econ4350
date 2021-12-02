@@ -87,6 +87,11 @@ Every presentation has two sides! Make sure you can excel at each role!
 
 ---
 
-# The end of the term
+# Final Project
 
-Thanks so much!
+Describe the patterns of terrorist attacks in Pakistan. Materials are on Canvas.
+- Create a dashboard to illustrate the patterns observed in the data
+- Write a technical report (and accompanying executive summary) focused on those patterns
+- Give a short presentation about your findings
+
+May work in pairs! (You're welcome! :smile:)
