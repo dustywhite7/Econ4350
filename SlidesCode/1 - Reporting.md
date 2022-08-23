@@ -45,7 +45,7 @@ Dusty White, PhD (he/him/his)
 # What should you expect from me?
 - Prompt responses
 - I will focus on the topics you express interest in
-- I will be available on Aula as much as possible during the week to answer questions
+- I will be available on Discord as much as possible during the week to answer questions
 
 ---
 
@@ -93,7 +93,7 @@ Let's go take a look...
 
 ---
 
-# Take 5 minutes to think about favorite story, and then we will take a turn telling them
+# Take 5 minutes to talk about your favorite story with a classmate, and then we will take volunteers to share with the whole class
 
 You'll have ~3 minutes
 
@@ -128,5 +128,12 @@ You'll have ~3 minutes
 
 ---
 
-# Today, Dashboards
-#### Tomorrow, the World (also, more dashboards)
+# Today, Storytelling
+
+Tomorrow, the [corporate?] world!
+
+---
+
+# For lab:
+
+Decide what you want to work on for the course wiki! Maybe find some people you'd like to work with, too!
