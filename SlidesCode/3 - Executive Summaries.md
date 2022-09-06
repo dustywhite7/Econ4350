@@ -38,6 +38,8 @@ Write an executive summary to
 --Lauren N. Brodsky
  HKS Lecturer in Public Policy
 
+ #### NOTE: DON'T USE A SECOND PAGE (no matter what this quote says)
+
 
 ---
 
@@ -87,3 +89,32 @@ Until you finish the Executive Summary
 # Examples
 
 [Some guides to writing Executive Summaries that I collected](https://github.com/dustywhite7/Econ4350/tree/master/Documents)
+
+---
+
+# Let's Talk about the Wiki
+
+---
+
+# WAIT!
+
+What is a wiki??
+
+https://www.youtube.com/watch?v=-dnL00TdmLY
+
+--- 
+
+# Making a Wiki!
+
+Welcome to [Fandom](https://www.fandom.com/)!
+
+---
+
+# You and your group will
+
+- Make the necessary wiki pages to cover your content
+    - PROOFREAD and EDIT that content
+- Prepare a lesson and learning activity around that content
+- Present that lesson to your classmates
+
+Rubrics are available on Canvas!

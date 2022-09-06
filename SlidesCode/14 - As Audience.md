@@ -83,15 +83,4 @@ Look for the presenter's evidence for their arguments. Be skeptical, and keep as
 
 # Remember
 
-Every presentation has two sides! Make sure you can excel at each role!
-
----
-
-# Final Project
-
-Describe the patterns of terrorist attacks in Pakistan. Materials are on Canvas.
-- Create a dashboard to illustrate the patterns observed in the data
-- Write a technical report (and accompanying executive summary) focused on those patterns
-- Give a short presentation about your findings
-
-May work in pairs! (You're welcome! :smile:)
+Every presentation has two sides! You should excel at each!
