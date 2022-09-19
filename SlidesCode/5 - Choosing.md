@@ -205,7 +205,4 @@ And the following techniques:
 
 # Lab Time!
 
-Choose a way to visualize [Omaha Weather Data](https://github.com/dustywhite7/Econ4350/raw/master/Data/civilLibertiesIndex.csv) in order to tell a story. The story you choose to tell is up to you! Please submit the following:
-
-1. Your Power BI workbook
-2. A word document with a brief explanation of what story you want to tell, as well as why you think the visual you created is the correct way to present that story
+Get ready for student-led lessons beginning next week!
