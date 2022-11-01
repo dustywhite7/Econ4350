@@ -109,6 +109,6 @@ In this case, we don't have geographic information, per se, but we do have the c
 
 We can create maps out of locational data, whether or not it is geographic.
 - Map athletic events!
-- Create a map of your store, what items are on what shelves, and start to visualize sales!
+- Create a map of your store, what items are on what shelves, and start to visualize sales! (an example of the [Chicago Field Museum Map](https://arcataroger.github.io/openlayers_indoor_map/#))
 - Our limitations are knowing the shape of an area, and knowing where things are at
     - If we know this, we can map it!
